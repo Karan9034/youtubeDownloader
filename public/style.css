@@ -1,0 +1,30 @@
+#heading{
+	text-align: center;
+	padding: 2vh 0;
+	background-color: #427bf5;
+	border-bottom-width: 2px;
+}
+
+#form{
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 70%;
+	margin-top: 10vh;
+}
+#form input{
+	width: 70%;
+	outline: none;
+	display: inline;
+	margin: 0;
+	border-width: 0.5px;
+}
+#form button{
+	width: 25%;
+	outline: none;
+	display: inline;
+	margin: 0;
+	background-color: #41f05b
+}
+#form #warning{
+	margin-left: 1.5vw;
+}
